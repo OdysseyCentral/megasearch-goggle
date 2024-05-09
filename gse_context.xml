@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine language="en" safesearch="true" autocompletions="true" enable_promotions="true" top_refinements="2147483647">
+   <Title>Odyssey Central</Title>
+   <Description>Search all of the known websites that talk about Adventures in Odyssey.</Description>
+   <Context>
+       <BackgroundLabels>
+           <Label name="_cse_hwe3g9itxta" mode="FILTER"></Label>
+           <Label name="_cse_exclude_hwe3g9itxta" mode="ELIMINATE"></Label>
+       </BackgroundLabels>
+       <Facet>
+           <FacetItem>
+               <Label name="reference" mode="FILTER"></Label>
+               <Title>Reference</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="blogs" mode="FILTER"></Label>
+               <Title>Blogs</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="forums" mode="FILTER"></Label>
+               <Title>Forums</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="official" mode="FILTER"></Label>
+               <Title>Official</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="podcasts" mode="FILTER"></Label>
+               <Title>Podcasts</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="fanfiction" mode="FILTER"></Label>
+               <Title>Fanfiction</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="shops" mode="FILTER"></Label>
+               <Title>Shops</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="odyssey_central" mode="FILTER"></Label>
+               <Title>Odyssey Central</Title>
+           </FacetItem>
+           <FacetItem>
+               <Label name="aiowiki" mode="FILTER"></Label>
+               <Title>AIOWiki</Title>
+           </FacetItem>
+       </Facet>
+   </Context>
+   <LookAndFeel element_layout="1" theme="2" enable_cse_thumbnail="true" element_branding="hide" custom_theme="true" font="2">
+       <Colors url="#FFFFFF" title="#FFFFFF" visited="#F7F7F7" title_hover="#FFFFFF" title_active="#F7F7F7" text="#FFFFFF" background="#006983" border="#006983"></Colors>
+       <Promotions title_color="" title_visited_color="" title_hover_color="" title_active_color="" background_color="" border_color="" url_color="" snippet_color=""></Promotions>
+       <SearchControls input_border_color="#FFFFFF" button_icon_color="" button_border_color="#004050" button_background_color="#004050" tab_border_color="#FFFFFF" tab_background_color="#004050" tab_selected_border_color="#FFFFFF" tab_selected_background_color="#004050"></SearchControls>
+       <Results border_color="#004050" border_hover_color="#004050" background_color="#004050" background_hover_color="#004050"></Results>
+       <Logo url="" destination="" height="30"></Logo>
+       <Widget query_parameter_name="q"></Widget>
+   </LookAndFeel>
+   <ImageSearchSettings enable="true"></ImageSearchSettings>
+   <cse_advance_settings enable_facet_search="false">
+       <web_search_options enable_history="true" show_structured_data="false">
+           <search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""></search_restrict_args>
+       </web_search_options>
+       <image_advanced_options default_to_image_search="false">
+           <search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""></search_restrict_args>
+       </image_advanced_options>
+       <search_options link_target=""></search_options>
+       <custom_search_control_options no_results_string=""></custom_search_control_options>
+   </cse_advance_settings>
+   <sort_by_keys label="Relevance" key=""></sort_by_keys>
+   <sort_by_keys label="Date" key="date"></sort_by_keys>
+   <autocomplete_settings source="1"></autocomplete_settings>
+</CustomSearchEngine>

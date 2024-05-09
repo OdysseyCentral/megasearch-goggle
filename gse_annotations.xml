@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations>
+   <Annotation about="*.aiowiki.com/*" timestamp="0x0005e3489a6efd9b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="aiowiki"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="theodysseyboi.blogspot.com/*" timestamp="0x0005e3489593c4e1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="theodysseyboi.blogspot.com/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aioopinions.com/*" timestamp="0x0005cfe8aeff4717" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="https://aioopinions.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiowritersblock.wordpress.com/*" timestamp="0x0005cfe8add74eaf" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="https://aiowritersblock.wordpress.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="adventureshappeninginodyssey.art.blog/*" timestamp="0x0005cfe8acbec7c0" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="https://adventureshappeninginodyssey.art.blog/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseycentral.com/*" timestamp="0x0005cfc9f75983f9" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="odyssey_central"></Label>
+       <AdditionalData attribute="original_url" value="https://odysseycentral.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="www.katieleigh.com/podcast" timestamp="0x0005cf7b5c5aa70a" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="https://www.katieleigh.com/podcast"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinideology.ca/*" timestamp="0x0005cf7b52371069" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="https://adventuresinideology.ca/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiowiki.com/wiki/*_talk:*" timestamp="0x0005cdd34cbd4fa3" score="1.0">
+       <Label name="_cse_exclude_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/wiki/*_talk:*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.ccmb.forumotion.com/*" timestamp="0x0005cdd33b593bca" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="forums"></Label>
+       <AdditionalData attribute="original_url" value="*.ccmb.forumotion.com/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/history/*" timestamp="0x0005cdd3273bcfb1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/history/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/*" timestamp="0x0005cdd326a2b9c1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/adventures-in-odyssey-podcast/*" timestamp="0x0005cdd324ae86f3" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/adventures-in-odyssey-podcast/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/books/*" timestamp="0x0005cdd3226b3b1e" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/books/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/story-arcs/*" timestamp="0x0005cdd32107ea89" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/story-arcs/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/contributors/*" timestamp="0x0005cdd31f8df0a4" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/contributors/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/characters/*" timestamp="0x0005cdd31b083f53" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/characters/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/episodes/*" timestamp="0x0005cdd319fa1e86" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/episodes/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/albums/*" timestamp="0x0005cdd3172d7d83" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/albums/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.focusonthefamily.com/clubhouse-magazine/*" timestamp="0x0005cdd305951906" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <AdditionalData attribute="original_url" value="*.focusonthefamily.com/clubhouse-magazine/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="unofficialaioblog.blogspot.com/*" timestamp="0x0005cdd2fd2308bd" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="unofficialaioblog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="regisville.forumotion.net/*" timestamp="0x0005cdd2fbfa496e" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="forums"></Label>
+       <AdditionalData attribute="original_url" value="regisville.forumotion.net/"></AdditionalData>
+   </Annotation>
+   <Annotation about="tepm.forummotion.com/*" timestamp="0x0005cdd2fb574849" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="forums"></Label>
+       <AdditionalData attribute="original_url" value="tepm.forummotion.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="shop.focusonthefamily.ca/Kids/Adventures-in-Odyssey/*" timestamp="0x0005cdd2f6a980c3" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="shops"></Label>
+       <AdditionalData attribute="original_url" value="shop.focusonthefamily.ca/Kids/Adventures-in-Odyssey/"></AdditionalData>
+   </Annotation>
+   <Annotation about="store.focusonthefamily.com/focus-featured/adventures-in-odyssey*" timestamp="0x0005cdd2f63dc998" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="shops"></Label>
+       <AdditionalData attribute="original_url" value="store.focusonthefamily.com/focus-featured/adventures-in-odyssey"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.adventuresinodyssey.com/podcast/*" timestamp="0x0005cdd2f22279fe" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="*.adventuresinodyssey.com/podcast/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiowiki.com/wiki/User:*" timestamp="0x0005cdd2e9c34a4e" score="1.0">
+       <Label name="_cse_exclude_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/wiki/User:*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiowiki.com/wiki/Template:*" timestamp="0x0005cdd2e8489c07" score="1.0">
+       <Label name="_cse_exclude_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/wiki/Template:*"></AdditionalData>
+   </Annotation>
+   <Annotation about="placeofwonder.weebly.com/*" timestamp="0x0005cc3be3de11f4" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="placeofwonder.weebly.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.fanfiction.net/s/13409663/*" timestamp="0x0005cc3be2f82da2" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="*.fanfiction.net/s/13409663/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.fanfiction.net/s/13834871/*" timestamp="0x0005cc3be2b09780" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="*.fanfiction.net/s/13834871/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.fanfiction.net/s/13780161/*" timestamp="0x0005cc3be27315de" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="*.fanfiction.net/s/13780161/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.fanfiction.net/s/13835036/*" timestamp="0x0005cc3be22da04f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="*.fanfiction.net/s/13835036/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiowiki.com/wiki/Wiki:*" timestamp="0x0005cc28bf248780" score="1.0">
+       <Label name="_cse_exclude_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/wiki/Wiki:*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiowiki.com/wiki/Category:*" timestamp="0x0005cc28bcdab237" score="1.0">
+       <Label name="_cse_exclude_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="*.aiowiki.com/wiki/Category:*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyscoop.com/*" timestamp="0x0005cc27fd6c29e6" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="odysseyscoop.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyscoopcast.com/*" timestamp="0x0005cc27fca8ace2" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="odysseyscoopcast.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyscoop.com/chickensoup/fan_fiction/*" timestamp="0x0005cc27d91cbf5f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="*.odysseyscoop.com/chickensoup/fan_fiction/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyscoop.com/blog/*" timestamp="0x0005cc27ceb8675e" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="*.odysseyscoop.com/blog/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyscoop.com/forum/*" timestamp="0x0005cc27ce298b52" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="forums"></Label>
+       <AdditionalData attribute="original_url" value="*.odysseyscoop.com/forum/*"></AdditionalData>
+   </Annotation>
+   <Annotation about="aio-blog.blogspot.com/*" timestamp="0x0005cc27bb070fa3" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aio-blog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aio-oddsandends.blogspot.com/*" timestamp="0x0005cc27ba4095b1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aio-oddsandends.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.whitsend.org/*" timestamp="0x0005cc27b8bccda7" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="official"></Label>
+       <AdditionalData attribute="original_url" value="whitsend.org/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiolib.com/*" timestamp="0x0005cc27b7e2ec92" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="aiolib.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiohq.com/*" timestamp="0x0005cc27b5de07be" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="aiohq.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aioaudionews.com/*" timestamp="0x0005cc27b3ef8545" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="aioaudionews.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiofanpodcast.blogspot.com/*" timestamp="0x0005cc27b24ac6ac" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="aiofanpodcast.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.thewepodcast.com/*" timestamp="0x0005cc27b24ac6a5" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="thewepodcast.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="family.christianbook.com/Christian/Books/cms_sp/966461672?sp=78925&amp;event=HPBUT*" timestamp="0x0005cc27afa7f670" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="shops"></Label>
+       <AdditionalData attribute="original_url" value="family.christianbook.com/Christian/Books/cms_sp/966461672?sp=78925&amp;event=HPBUT"></AdditionalData>
+   </Annotation>
+   <Annotation about="anchor.fm/odysseymoments/*" timestamp="0x0005cc27ae67dd29" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="anchor.fm/odysseymoments/"></AdditionalData>
+   </Annotation>
+   <Annotation about="anchor.fm/hannah-morgan5*" timestamp="0x0005cc27ae67dd26" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="anchor.fm/hannah-morgan5"></AdditionalData>
+   </Annotation>
+   <Annotation about="anchor.fm/aio-club*" timestamp="0x0005cc27ae67dd23" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="anchor.fm/aio-club"></AdditionalData>
+   </Annotation>
+   <Annotation about="anchor.fm/wodfamchocpod*" timestamp="0x0005cc27ae67dd1f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="anchor.fm/wodfamchocpod"></AdditionalData>
+   </Annotation>
+   <Annotation about="bestsmalltownpodcast.blogspot.com/*" timestamp="0x0005cc27ae67dd1b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="bestsmalltownpodcast.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="boredombusterpodcast.weebly.com/*" timestamp="0x0005cc27ae67dd14" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="boredombusterpodcast.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="www.fanfiction.net/community/Adventures-in-Odyssey/107300/" timestamp="0x0005cc27a64c1d4e" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="https://www.fanfiction.net/community/Adventures-in-Odyssey/107300/"></AdditionalData>
+   </Annotation>
+   <Annotation about="www.fanfiction.net/community/Classic-Adventures-in-Odyssey/128871/" timestamp="0x0005cc27a64c1d4b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="https://www.fanfiction.net/community/Classic-Adventures-in-Odyssey/128871/"></AdditionalData>
+   </Annotation>
+   <Annotation about="www.fanfiction.net/community/Adventures-in-Odyssey/107300/3/0/2/0/0/0/0/" timestamp="0x0005cc27a64c1d46" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="https://www.fanfiction.net/community/Adventures-in-Odyssey/107300/3/0/2/0/0/0/0/"></AdditionalData>
+   </Annotation>
+   <Annotation about="fanfiction.net/community/Adventures-in-Odyssey/107300/*" timestamp="0x0005cc27a64c1d3f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="fanfiction"></Label>
+       <AdditionalData attribute="original_url" value="fanfiction.net/community/Adventures-in-Odyssey/107300/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.audiotheatrecentral.com/*" timestamp="0x0005cc279f452e10" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="audiotheatrecentral.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.ceilingfanpodcast.com/*" timestamp="0x0005cc278be0367b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="podcasts"></Label>
+       <AdditionalData attribute="original_url" value="ceilingfanpodcast.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiosoda.com/*" timestamp="0x0005cc278934e03f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="aiosoda.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseynerds.wordpress.com/*" timestamp="0x0005cc27766671cf" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseynerds.wordpress.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="incorrect-aio-quotes.tumblr.com/*" timestamp="0x0005cc27766671c2" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="incorrect-aio-quotes.tumblr.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyandabroad.com/*" timestamp="0x0005cc27766671ba" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseyandabroad.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseyfan.com/*" timestamp="0x0005cc27766671a4" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseyfan.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.oaclub.org/*" timestamp="0x0005cc2776667198" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="oaclub.org/"></AdditionalData>
+   </Annotation>
+   <Annotation about="twistsandturns-aio.weebly.com/*" timestamp="0x0005cc277666715c" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="twistsandturns-aio.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiotimes.blogspot.com/*" timestamp="0x0005cc2776667158" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aiotimes.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiothoughts.blogspot.com/*" timestamp="0x0005cc277666714c" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aiothoughts.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="web.archive.org/web/20180329123346/atwhitsend.org/*" timestamp="0x0005cc2776667148" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="web.archive.org/web/20180329123346/atwhitsend.org/"></AdditionalData>
+   </Annotation>
+   <Annotation about="fjayodysseyreport.blogspot.com/*" timestamp="0x0005cc2776667143" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="fjayodysseyreport.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="davesaioblog.blogspot.com/*" timestamp="0x0005cc277666713f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="davesaioblog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="justanotheraioblog.blogspot.com/*" timestamp="0x0005cc277666713b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="justanotheraioblog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseytimesblog.blogspot.com/*" timestamp="0x0005cc2776667137" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseytimesblog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseyway.blogspot.com/*" timestamp="0x0005cc2776667133" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseyway.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseyoutofcontrol.blogspot.com/*" timestamp="0x0005cc277666712f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseyoutofcontrol.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="thevoiceofodyssey.blogspot.com/*" timestamp="0x0005cc277666712a" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="thevoiceofodyssey.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiobc.blogspot.com/*" timestamp="0x0005cc2776667121" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aiobc.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aioinsanity.blogspot.com/*" timestamp="0x0005cc277666711b" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aioinsanity.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="theheartofaio.blogspot.com/*" timestamp="0x0005cc2776667115" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="theheartofaio.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="soopergrape.com/OACS/*" timestamp="0x0005cc277666710f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="soopergrape.com/OACS/"></AdditionalData>
+   </Annotation>
+   <Annotation about="insideaio.weebly.com/*" timestamp="0x0005cc277666710a" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="insideaio.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="cryinbriandern.blogspot.com/*" timestamp="0x0005cc2776667105" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="cryinbriandern.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseysquirrel.blogspot.com/*" timestamp="0x0005cc27766670fd" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseysquirrel.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/channel/UCMfGGjFeZDKOveMiKdGYajQ*" timestamp="0x0005cc27766670f9" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/channel/UCMfGGjFeZDKOveMiKdGYajQ"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseymuchacha.blogspot.com/*" timestamp="0x0005cc27766670f5" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseymuchacha.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aio-thechangingtimes.blogspot.com/*" timestamp="0x0005cc27766670f1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aio-thechangingtimes.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="downodysseylane-aio.weebly.com/*" timestamp="0x0005cc27766670ec" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="downodysseylane-aio.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="rustygordonsblog.blogspot.com/*" timestamp="0x0005cc27766670e6" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="rustygordonsblog.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="atowncalledodyssey.blogspot.com/*" timestamp="0x0005cc27766670df" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="atowncalledodyssey.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="taiodn.blogspot.com/*" timestamp="0x0005cc27766670d6" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="taiodn.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="worldofaioquotes.weebly.com/*" timestamp="0x0005cc27766670cf" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="worldofaioquotes.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="electricpalace.blogspot.com/*" timestamp="0x0005cc27766670c2" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="electricpalace.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="agent-3xq.blogspot.com/*" timestamp="0x0005cc27766670bb" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="agent-3xq.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="mandystraussbergslife.blogspot.com/*" timestamp="0x0005cc27766670ae" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="mandystraussbergslife.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="theaiofanslife.jigsy.com/*" timestamp="0x0005cc27766670a7" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="theaiofanslife.jigsy.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/channel/UCgM35_lklLB97FlGSbGUUlA/videos*" timestamp="0x0005cc277666709d" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/channel/UCgM35_lklLB97FlGSbGUUlA/videos"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/user/hugeaiofan*" timestamp="0x0005cc2776667097" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/user/hugeaiofan"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/user/AdventuresinEditing*" timestamp="0x0005cc2776667091" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/user/AdventuresinEditing"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/channel/UC7O0jf9kIRcx7xWEK0BZwbA*" timestamp="0x0005cc2776667083" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/channel/UC7O0jf9kIRcx7xWEK0BZwbA"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseyfanartgallery.blogspot.com/*" timestamp="0x0005cc277666706d" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseyfanartgallery.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="pinterest.com/odysseymoments/adventures-in-odyssey-fan-art/*" timestamp="0x0005cc2776667065" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="pinterest.com/odysseymoments/adventures-in-odyssey-fan-art/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseymoments.com/*" timestamp="0x0005cc277666705f" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseymoments.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="instagram.com/odysseymoments/*" timestamp="0x0005cc2776667059" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="instagram.com/odysseymoments/"></AdditionalData>
+   </Annotation>
+   <Annotation about="facebook.com/odysseymoments*" timestamp="0x0005cc2776667054" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="facebook.com/odysseymoments"></AdditionalData>
+   </Annotation>
+   <Annotation about="thegaryartgood.blogspot.com/*" timestamp="0x0005cc277666703d" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="thegaryartgood.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="facebook.com/AIOFanPage*" timestamp="0x0005cc2776667036" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="facebook.com/AIOFanPage"></AdditionalData>
+   </Annotation>
+   <Annotation about="playhouseoftheairwaves.blogspot.com/*" timestamp="0x0005cc2776667030" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="playhouseoftheairwaves.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="imaginationstation.iftopic.com/*" timestamp="0x0005cc2776667029" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="imaginationstation.iftopic.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="theabbyandmandieshow.webnode.com/*" timestamp="0x0005cc2776667023" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="theabbyandmandieshow.webnode.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiofansite.blogspot.com/*" timestamp="0x0005cc277666701a" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aiofansite.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aiofansite.weebly.com/*" timestamp="0x0005cc2776667006" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aiofansite.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="trentchat.blogspot.com/*" timestamp="0x0005cc2776666ff4" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="trentchat.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odyssey.chat/*" timestamp="0x0005cc2776666fee" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odyssey.chat/"></AdditionalData>
+   </Annotation>
+   <Annotation about="bimmyjarclay.tumblr.com/*" timestamp="0x0005cc2776666fe7" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="bimmyjarclay.tumblr.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.factsbuffet.com/*" timestamp="0x0005cc2776666fe2" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="factsbuffet.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="theaioconspiracy.weebly.com/*" timestamp="0x0005cc2776666fdb" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="theaioconspiracy.weebly.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="wodfamodpod.blogspot.com/*" timestamp="0x0005cc2776666fd5" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="wodfamodpod.blogspot.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="emilyrulesklub.wordpress.com/*" timestamp="0x0005cc2776666fcf" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="emilyrulesklub.wordpress.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="agent1132.tumblr.com/*" timestamp="0x0005cc2776666fc9" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="agent1132.tumblr.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="multsey-baby.tumblr.com/*" timestamp="0x0005cc2776666fc3" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="multsey-baby.tumblr.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="youtube.com/c/AdventuresInOdysseyOfficial*" timestamp="0x0005cc2776666fbb" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="youtube.com/c/AdventuresInOdysseyOfficial"></AdditionalData>
+   </Annotation>
+   <Annotation about="pinterest.ca/odysseymoments/*" timestamp="0x0005cc2776666fb5" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="pinterest.ca/odysseymoments/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.katieleigh.com/*" timestamp="0x0005cc2776666fb0" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="katieleigh.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="instagram.com/chrisanthonylansdowne/*" timestamp="0x0005cc2776666faa" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="instagram.com/chrisanthonylansdowne/"></AdditionalData>
+   </Annotation>
+   <Annotation about="instagram.com/shona_kennedy/*" timestamp="0x0005cc2776666fa5" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="instagram.com/shona_kennedy/"></AdditionalData>
+   </Annotation>
+   <Annotation about="facebook.com/westernwillryan*" timestamp="0x0005cc2776666fa0" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="facebook.com/westernwillryan"></AdditionalData>
+   </Annotation>
+   <Annotation about="davidhohnillustration.tumblr.com/*" timestamp="0x0005cc2776666f99" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="davidhohnillustration.tumblr.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="aioinsider.home.blog/*" timestamp="0x0005cc2776666f91" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="aioinsider.home.blog/"></AdditionalData>
+   </Annotation>
+   <Annotation about="welcometoodyssey.wordpress.com/*" timestamp="0x0005cc2776666f83" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="welcometoodyssey.wordpress.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="soundcloud.com/wanderingfilmcritic*" timestamp="0x0005cc2776666f6d" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="soundcloud.com/wanderingfilmcritic"></AdditionalData>
+   </Annotation>
+   <Annotation about="web.archive.org/web/20160501042019/townhall.aiosf.com/*" timestamp="0x0005cc2776666f67" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="web.archive.org/web/20160501042019/townhall.aiosf.com/"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.odysseymoments.com/*" timestamp="0x0005cc27559e84be" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <AdditionalData attribute="original_url" value="odysseymoments.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseysquirrel.blogspot.com/*" timestamp="0x000586157989b84d" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="odysseysquirrel.blogspot.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="aio-oddsandends.blogspot.com/*" timestamp="0x0005861579560c36" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aio-oddsandends.blogspot.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="cryinbriandern.blogspot.com/*" timestamp="0x00058615791956b6" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="cryinbriandern.blogspot.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="insideaio.weebly.com/*" timestamp="0x0005861578e470cf" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="insideaio.weebly.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.thetoo.com/*" timestamp="0x0005861557c75ccb" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="forums"></Label>
+       <AdditionalData attribute="original_url" value="thetoo.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="emilyrulesklub.wordpress.com/*" timestamp="0x000586154abffffe" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="emilyrulesklub.wordpress.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="wodfamodpod.blogspot.com/*" timestamp="0x000586154a8f1e59" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="wodfamodpod.blogspot.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="aioinsider.home.blog/*" timestamp="0x000586154a565976" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aioinsider.home.blog"></AdditionalData>
+   </Annotation>
+   <Annotation about="odysseynerds.wordpress.com/*" timestamp="0x0005861543115d11" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="odysseynerds.wordpress.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="*.aiosoda.com/*" timestamp="0x000586153fe1cc43" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="reference"></Label>
+       <AdditionalData attribute="original_url" value="aiosoda.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="aio-blog.blogspot.com/*" timestamp="0x000586153f954bfb" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aio-blog.blogspot.com"></AdditionalData>
+   </Annotation>
+   <Annotation about="aioupdate.weebly.com/*" timestamp="0x000586153f2799a1" score="1.0">
+       <Label name="_cse_hwe3g9itxta"></Label>
+       <Label name="blogs"></Label>
+       <AdditionalData attribute="original_url" value="aioupdate.weebly.com"></AdditionalData>
+   </Annotation>
+</Annotations>
