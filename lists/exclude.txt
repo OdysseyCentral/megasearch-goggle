@@ -1,0 +1,6 @@
+*.aiowiki.com/wiki/*_talk:*
+*.aiowiki.com/wiki/User:*
+*.aiowiki.com/wiki/Template:*
+*.aiowiki.com/wiki/Wiki:*
+*.aiowiki.com/wiki/Category:*
+

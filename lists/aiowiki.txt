@@ -1,0 +1,2 @@
+*.aiowiki.com/*
+
