@@ -1,0 +1,24 @@
+! name: Odyssey Central Mega Search
+! description: Search all-things "Adventures in Odyssey" with this Goggle, which powers the Odyssey Central Mega Search Engine
+! public: false
+! author: Odyssey Central
+! avatar: #004050
+! homepage: https://odysseycentral.com/search
+
+$discard
+
+! AIOWiki
+aiowiki.com/wiki/*$boost=3
+aiowiki.com/wiki/*_talk:*$discard
+aiowiki.com/wiki/Category:*$discard
+aiowiki.com/wiki/Special:*$discard
+aiowiki.com/wiki/Template:*$discard
+aiowiki.com/wiki/User:*$discard
+aiowiki.com/wiki/Wiki:*$discard
+
+! Adventures in Odyssey
+adventuresinodyssey.com$boost=3
+
+! Odyssey Scoop
+odysseyscoop.com$boost=3
+

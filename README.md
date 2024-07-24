@@ -12,27 +12,40 @@ The Mega Search API consists of a superset of the Brave Search API, a superset o
 
 ## Features to develop
 
-- Choose between 'search the internet' and 'limit search'.
+- Choose between two modes:
+- 'search the internet' and 'limited search'.
+- *'search the internet'* will rank results with 'Adventures in Odyssey'
+- content near the top of the results.
+- *'limited search'* will only search specific website domains that
+- have been added to the search list by Odyssey Central itself and its
+- contributors. This mode is considered "safer" in most regards as it
+- has been somewhat vetted by members of the 'Adventures in Odyssey'
+- fan community. Though, Odyssey Central doesn't screen search or
+- filter search results based on any criteria, so common sense
+- precautions should be taken for age-appropriate internet behaviour.
+
+## Contexts
+
 - Contexts (types of searches, like blogs, official sources, reference sites, etc.).
 - Album/episode/theme/etc. search. (Combining AIOWiki, AIO Club, & other sources.)
 - AIOWiki search.
 - Image search.
 - Boosted results.
 
-## Search contexts
+### Search contexts
 
 - Official sources
 - Odyssey content
-- AIOWiki
 - Reference
 - Blogs
 - Forums
 - Podcasts
 - Fanfiction
 - Shops
-- Odyssey Central
 - Socials (social media)
 - Specific sites
+  - AIOWiki
+  - Odyssey Central
   - The Town of Odyssey
   - The Soda Shop
   - The Odyssey Scoop
